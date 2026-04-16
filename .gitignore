@@ -1,0 +1,40 @@
+# LabVIEW generated files
+*.aliases
+*.lvlps
+*.bak
+
+# LabVIEW build output
+/builds/
+/build/
+
+# LabVIEW compiled libraries
+*.llb
+
+# LabVIEW temporary files
+*.tmp
+*_tmp.vi
+
+# LabVIEW auto-save
+~*.vi
+~*.ctl
+
+# NI Package Manager
+*.nipkg
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backup files
+*.swp
+*~
+
+# Data output logs (keep only committed samples)
+/data/raw_logs/
+*.tdms
+*.tdms_index
+
+# IDE files
+.vscode/
+.idea/
