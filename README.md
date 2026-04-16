@@ -5,18 +5,6 @@
 
 ---
 
-##  Project Information
-
-| Field | Details |
-|---|---|
-| **Institution** | SRM Institute of Science and Technology, Ramapuram |
-| **Department** | Biomedical Engineering |
-| **Course** | 21BMC302J – Microcontrollers and Its Application in Medicine |
-| **Year / Semester** | III Year B.Tech – Odd Semester 2024–2025 |
-| **Team Members** | Sanjay Jonath S · Varshini M · Sindhuja |
-
----
-
 ##  Project Overview
 
 This project simulates the behaviour of a clinical IV infusion pump using LabVIEW's graphical programming environment. The system models drug volume depletion over time, provides real-time graphical feedback, and triggers safety alerts under unsafe operating conditions — all without any physical hardware.
